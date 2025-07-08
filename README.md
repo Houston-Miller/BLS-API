@@ -13,7 +13,7 @@ because of the different scale of data in the availabe series, all data metrics 
 ## Notes on the project files
 
 The jupyter notebook file was the "sandbox" file I was using to play with the python script to handle the API data and visualization. The python script in the final PBI file is more refined and tooled for the dynamic nature of the task.
-Originally I had intentnions of comparing CPI data from the BLS to some internal data helpfully provided by the R&A team but the data sets were not as conducive as I had envisioned - thus the pivot to the CPI and CX data comparison.
+Originally I had intentnions of comparing CPI data from the BLS to some internal data helpfully provided by the R&A team but the data sets were not as conducive as I had envisioned - thus the pivot to the CPI and CX data comparison. This is why the CPI data is focused on a Philadelphia based area specifically.
 
 ## Theory and Findings
 
